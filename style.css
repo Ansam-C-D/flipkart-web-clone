@@ -1073,7 +1073,7 @@ body {
         flex-flow:row wrap;
         margin-left:65px;
         padding-top:41px;
-        width:90%;
+        /* width:90%; */
     }
     
     #big-divices .main-bg-footer .list-section{
